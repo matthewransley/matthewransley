@@ -1,4 +1,4 @@
-# 👋 Hello, I'm epicmatthew23
+# 👋 Hello, I'm Matthew Ransley
 
 I'm a passionate software developer and technology enthusiast. Welcome to my GitHub profile!
 
