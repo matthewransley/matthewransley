@@ -6,11 +6,6 @@ I'm a passionate software developer and technology enthusiast. Welcome to my Git
 
 🌱 I'm actively working on a variety of private projects that cover a range of technologies and domains. While I can't share the details here, I can assure you they are exciting and challenging!
 
-💡 I'm interested in:
-
-- 🤖 Bot Mitigation & CAPTCHAs
-- 🌐 Web Development
-
 ## 📫 Contact Me
 
 Let's connect and collaborate! Reach out to me on:
